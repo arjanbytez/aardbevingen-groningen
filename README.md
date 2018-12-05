@@ -20,6 +20,7 @@ Via de knop rechts bovenin kunnen de lagen met voelbare en niet-voelbare bevinge
 * **[1] altijd tonen alle aardbevingen.** Nu zijn alle bevingen pas zichtbaar bij hoogste zoomlevel. Zou een simpele oplossing voor moeten zijn, OpenLayers kan prima al deze symbolen tegelijk tonen. Helaas realiseerde ik mij dit pas op het eind, leek het bijna opgelost, maar het onderzoek hiernaar loopt uit de tijd, dus nog niet gefixt...
 * **[2] kaart mag niet gedraaid kunnen worden via touch**
 * [gerelateerd aan vorige punt] bolgrootte bevingen afhankelijk van zoomlevel?
+* voor de zwaarste aardbevingen (zie https://www.nu.nl/groningen/5078771/top-5-zwaarste-aardbevingen-in-groningen.html) in de popups informatie geven met Wikipedia- en NOS-links en bv een foto.
 * opwaarderen voor grotere schermen: uitleg naast de kaart. meer mogelijkheden bv slider voor jaartallen
 * opstartmelding via cookie eenmalig tonen
 * beving "3+": tekst staat verkeerd uitgelijnd. In OpenLayers code duiken om dit op te lossen
