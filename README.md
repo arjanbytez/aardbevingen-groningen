@@ -27,4 +27,8 @@ Via de knop rechts bovenin kunnen de lagen met voelbare en niet-voelbare bevinge
 * opschonen laatst toegevoegde code
 
 **TECHNISCH**
-De basis is gemaakt in QGIS (3.2) met plugin qgis2web (). Een uitgebreide nabwerking vindt handmatig plaats. Uitleg daarvan in <a href="nabewerking.md">nabewerking.md</a>
+
+De basis is gemaakt in QGIS (v 3.2) met plugin qgis2web (v 3.4.0). Een uitgebreide nabwerking vindt handmatig plaats. Uitleg daarvan in <a href="nabewerking.md">nabewerking.md</a>
+
+Ik heb een eenvoudig buildscript in Travis gemaakt. Dit test puur het kopiëren van de release versie naar een productiemap. In theorie zou alles vanuit source opgebouwd kunnen worden maar dan moet qgis via de commandline aangestuurd, moet de gebruikte plugin daarbij meewerken en dienen de handmatige wijzigingen achteraf ook ingescript te worden. Dit is best te doen maar erg tijdrovend, dus ik heb hier van afgezien.
+
