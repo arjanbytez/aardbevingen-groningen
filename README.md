@@ -17,7 +17,7 @@ Via de knop rechts bovenin kunnen de lagen met voelbare en niet-voelbare bevinge
 * dat de opdracht "mobile-first" dient te zijn is wel even nieuw voor mij. Ik heb zoveel mogelijk met kleine schermen rekening gehouden, maar moet (en kan) mezelf hier nog in verbeteren.
 
 **TODO**
-* **[1] altijd tonen alle aardbevingen.** Nu zijn alle bevingen pas zichtbaar bij hoogste zoomlevel. Zou een simpele oplossing voor moeten zijn, OpenLayers kan prima al deze symbolen tegelijk tonen, maar het onderzoek hiernaar loopt uit de tijd...
+* **[1] altijd tonen alle aardbevingen.** Nu zijn alle bevingen pas zichtbaar bij hoogste zoomlevel. Zou een simpele oplossing voor moeten zijn, OpenLayers kan prima al deze symbolen tegelijk tonen. Helaas realiseerde ik mij dit pas op het eind, leek het bijna opgelost, maar het onderzoek hiernaar loopt uit de tijd, dus nog niet gefixt...
 * **[2] kaart mag niet gedraaid kunnen worden via touch**
 * [gerelateerd aan vorige punt] bolgrootte bevingen afhankelijk van zoomlevel?
 * opwaarderen voor grotere schermen: uitleg naast de kaart. meer mogelijkheden bv slider voor jaartallen
