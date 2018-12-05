@@ -25,3 +25,6 @@ Via de knop rechts bovenin kunnen de lagen met voelbare en niet-voelbare bevinge
 * beving "3+": tekst staat verkeerd uitgelijnd. In OpenLayers code duiken om dit op te lossen
 * support voor selectie van bevingen in afzonderlijke jaren of via een slider
 * opschonen laatst toegevoegde code
+
+**TECHNISCH**
+De basis is gemaakt in QGIS (3.2) met plugin qgis2web (). Een uitgebreide nabwerking vindt handmatig plaats. Uitleg daarvan in <a href="nabewerking.md">nabewerking.md</a>
