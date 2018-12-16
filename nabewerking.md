@@ -9,7 +9,7 @@ __stappen uit te voeren na qgis2web export voor aardbevingsvisual Groningen__
 		<< zie code popup >>
 * javascript aanpassing in \style\voelbarebevingen.js:
 
-<pre>
+```javascript
 var style_voelbarebevingen_2 = function(feature, resolution){
     var context = {
         feature: feature,
@@ -55,4 +55,4 @@ var style_voelbarebevingen_2 = function(feature, resolution){
 
     return style;
 };
-</pre>
+```javascript
