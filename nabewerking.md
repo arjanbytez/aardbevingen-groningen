@@ -55,4 +55,4 @@ var style_voelbarebevingen_2 = function(feature, resolution){
 
     return style;
 };
-```javascript
+```
